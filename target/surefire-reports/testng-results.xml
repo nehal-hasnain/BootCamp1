@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="33229" started-at="2020-04-05T17:38:20 EDT" finished-at="2020-04-05T17:38:54 EDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="33229" started-at="2020-04-05T17:38:20 EDT" finished-at="2020-04-05T17:38:54 EDT">
+      <class name="testCases.T04_qaOutsourcePageTest">
+        <test-method status="PASS" signature="browsersetUp()[pri:0, instance:testCases.T04_qaOutsourcePageTest@39c0f4a]" name="browsersetUp" is-config="true" duration-ms="9188" started-at="2020-04-05T17:38:35 EDT" finished-at="2020-04-05T17:38:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetUp -->
+        <test-method status="PASS" signature="qaOutsourcePage()[pri:0, instance:testCases.T04_qaOutsourcePageTest@39c0f4a]" name="qaOutsourcePage" duration-ms="1627" started-at="2020-04-05T17:38:45 EDT" finished-at="2020-04-05T17:38:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qaOutsourcePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.T04_qaOutsourcePageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="7324" started-at="2020-04-05T17:38:46 EDT" finished-at="2020-04-05T17:38:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.T04_qaOutsourcePageTest -->
+      <class name="testCases.T03_knowledgeFunctionalityTest">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:testCases.T03_knowledgeFunctionalityTest@7d9d1a19]" name="setUpBrowser" is-config="true" duration-ms="9733" started-at="2020-04-05T17:38:20 EDT" finished-at="2020-04-05T17:38:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="knowledgeCentrePageFunctionalityPage()[pri:0, instance:testCases.T03_knowledgeFunctionalityTest@7d9d1a19]" name="knowledgeCentrePageFunctionalityPage" duration-ms="3244" started-at="2020-04-05T17:38:30 EDT" finished-at="2020-04-05T17:38:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- knowledgeCentrePageFunctionalityPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.T03_knowledgeFunctionalityTest@7d9d1a19]" name="tearDown" is-config="true" duration-ms="2076" started-at="2020-04-05T17:38:33 EDT" finished-at="2020-04-05T17:38:35 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.T03_knowledgeFunctionalityTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
