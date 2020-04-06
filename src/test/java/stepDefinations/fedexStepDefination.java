@@ -74,7 +74,7 @@ public class fedexStepDefination {
 	@Then("^Fdex user account is created succesfully$")
 	public void fdex_user_account_is_created_succesfully() throws Throwable {
 		
-		System.out.println("Fedex user account is succfully created");
+		System.out.println("Fedex user account has succfully created");
 
 	}
 
