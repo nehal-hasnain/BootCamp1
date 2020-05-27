@@ -15,7 +15,7 @@ import utilities.browserEngine;
 import utilities.logInfo;
 import utilities.userData;
 
-public class T02_qaServicePageFunctionality {
+public class T02_qaServicePageFunctionalityTest {
 
 	public static WebDriver driver;
 

@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import utilities.browserEngine;
 import utilities.userData;
 
-public class T05_facebookLogIn {
+public class T05_facebookLogInTest {
 	
 	public static WebDriver driver;
 	

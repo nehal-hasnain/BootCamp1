@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13879" started-at="2020-04-05T19:30:42 EDT" finished-at="2020-04-05T19:30:56 EDT">
+  <suite name="Default suite" duration-ms="38" started-at="2020-05-27T16:59:51 EDT" finished-at="2020-05-27T16:59:51 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13879" started-at="2020-04-05T19:30:42 EDT" finished-at="2020-04-05T19:30:56 EDT">
-      <class name="hybridModel.runnerFile">
-        <test-method status="PASS" signature="objectRunner()[pri:0, instance:hybridModel.runnerFile@6e6c3152]" name="objectRunner" duration-ms="13847" started-at="2020-04-05T19:30:42 EDT" finished-at="2020-04-05T19:30:56 EDT">
+    <test name="Default test" duration-ms="38" started-at="2020-05-27T16:59:51 EDT" finished-at="2020-05-27T16:59:51 EDT">
+      <class name="testCases.T06_Sample">
+        <test-method status="PASS" signature="samplePractice()[pri:0, instance:testCases.T06_Sample@7d0587f1]" name="samplePractice" duration-ms="7" started-at="2020-05-27T16:59:51 EDT" finished-at="2020-05-27T16:59:51 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- objectRunner -->
-      </class> <!-- hybridModel.runnerFile -->
+        </test-method> <!-- samplePractice -->
+      </class> <!-- testCases.T06_Sample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

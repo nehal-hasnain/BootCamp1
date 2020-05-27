@@ -15,7 +15,7 @@ import utilities.browserEngine;
 import utilities.logInfo;
 import utilities.userData;
 
-public class T01_homePageValidation {
+public class T01_homePageValidationTest {
 
 	public static WebDriver driver;
 
